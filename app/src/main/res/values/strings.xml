@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="username">user name</string>
+    <string name="pass">password</string>
+    <string name="login">login</string>
+    <string name="mobile">Mobile No</string>
+    <string name="sign">Sign Up</string>
+    <string name="password">Dont have an account?</string>
+    <string name="signup">Sign Up.</string>
+    <string name="signin">Sign in</string>
+    <string name="validate">Validate</string>
+    <string name="alreadyhaveacc">Already have an account?</string>
+    <string name="number">5245</string>
+    <string name="otp">Havent received OTP?</string>
+    <string name="resend">Resend</string>
+    <string name="stop">Kukatpally Kings</string>
+    <string name="phoneno">9493368192</string>
+
+    <string name="mygroups">My Groups</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
